@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Rust / Tauri
+tauri-ui/src-tauri/target/
+**/*.rs.bk
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+
+# IDEs
+.vscode/
+.idea/
+*.swp

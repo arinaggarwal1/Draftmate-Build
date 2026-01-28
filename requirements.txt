@@ -1,0 +1,5 @@
+customtkinter==5.2.*
+darkdetect>=0.8
+Pillow>=10.0
+certifi>=2024.2
+platformdirs>=4.2
